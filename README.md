@@ -1,6 +1,6 @@
 # História dos Videogames Antigos
 
-Site informativo e apaixonado sobre a história dos consoles clássicos — do Atari Pong ao PlayStation 2 — com imagens, curiosidades, jogabilidade e listas dos jogos mais vendidos de cada plataforma.
+> Site informativo e apaixonado sobre a história dos consoles clássicos — do Atari Pong ao PlayStation 2 — com imagens, curiosidades, jogabilidade e listas dos jogos mais vendidos de cada plataforma.
 
 ---
 
